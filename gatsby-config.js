@@ -64,14 +64,6 @@ module.exports = {
           CoreParagraphBlockAttributesV2: {
             exclude: true,
           },
-          copyHtmlResponseOnError: true,
-            options: {
-              }
-            graphql: {
-              debug: {
-
-              }
-            }
         },
       },
     },
