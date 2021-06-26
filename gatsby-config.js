@@ -67,7 +67,6 @@ module.exports = {
           copyHtmlResponseOnError: true,
             options: {
               }
-            }
             graphql: {
               debug: {
 
