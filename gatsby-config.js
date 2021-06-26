@@ -49,7 +49,7 @@ module.exports = {
           //Prefixes all WP Types with "Wp" so "Post and allPost" become "WpPost and allWpPost".
           typePrefix: `Wp`,
         },
-        excludeFieldNames: [`blocksJSON`, `saveContent`],
+        excludeFieldNames: [`blocksJSON`, `saveContent`, `userRoles`],
         type: {
           Post: {
             limit:
